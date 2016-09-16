@@ -2,11 +2,11 @@
 BALABIT MOUSE CHALLENGE DATA SET
 ================================
 
-This repository contains the **[Balabit][balabit] Mouse Dynamics Challenge** data set which includes timing and positioning information of mouse pointers. It can be used for evaluating the performance of behavioral biometric algorithms based on mouse dynamics for user authentication/identification purposes.  
+This repository contains the **[Balabit Mouse Dynamics Challenge][balabit]** data set which includes timing and positioning information of mouse pointers. It can be used for evaluating the performance of behavioral biometric algorithms based on mouse dynamics for user authentication/identification purposes.  
 We make the data set accessible to researchers and experts in the fields of IT security and data science with the hope of contributing to research and providing a benchmark data set.  
 The data set was first made public during a data science competition on [datapallet.io][datapallet]. The files and descriptions in this repository originate from the challenge itself.  
 
-[balabit]: https://www.balabit.com
+[balabit]: https://www.balabit.com/blog/releasing-the-balabit-mouse-dynamics-challenge-data-set/
 [datapallet]: https://datapallet.io
 
 ## The Challenge
