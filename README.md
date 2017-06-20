@@ -43,6 +43,10 @@ In the challenge, for each test session file the task was to provide an anomaly 
 
 The 'public_labels.csv' file contains the labels of the *public part* of the test data (i.e., those that contributed to the public leaderboard score). Each row describes whether a certain test session capture a legal or an illegal session.  
 
+## Attack Model
+
+Although this data set is offered as benchmark data for detecting illegal account usages, during its creation no such misuses were carried out. All recorded data reflect work executed during authenticated remote sessions that have not been hijacked. The attacks are imitated. For each user, in order to simulate illegal usage of his/her account, data from other users are artificially mixed into the test data of said user. Since all users engage in the same kind of unspecified administative tasks, the data from the artificial attackers do not reflect malicious activities.  
+
 ## Citation
 
 If you are using the data in your publication, please cite it as follows:  
