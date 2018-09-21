@@ -6,7 +6,7 @@ This repository contains the **[Balabit Mouse Dynamics Challenge][balabit]** dat
 We make the data set accessible to researchers and experts in the fields of IT security and data science with the hope of contributing to research and providing a benchmark data set.  
 The data set was first made public during a data science competition on [datapallet.io][datapallet]. The files and descriptions in this repository originate from the challenge itself.  
 
-[balabit]: https://www.balabit.com/blog/releasing-the-balabit-mouse-dynamics-challenge-data-set/
+[balabit]: https://medium.com/balabit-unsupervised/releasing-the-balabit-mouse-dynamics-challenge-data-set-a15a016fba6c
 [datapallet]: https://datapallet.io
 
 ## The Challenge
@@ -52,4 +52,10 @@ Although this data set is offered as benchmark data for detecting illegal accoun
 If you are using the data in your publication, please cite it as follows:  
 
 Fülöp, Á., Kovács, L., Kurics, T., Windhager-Pokol, E. (2016). *Balabit Mouse Dynamics Challenge data set*. Available at: https://github.com/balabit/Mouse-Dynamics-Challenge  
+
+## Contact
+
+If you wish to contact the authors you may reach them through the [maintainer][maintainer] of this repository or find them with a search engine.
+
+[maintainer]: https://github.com/DataOmbudsman
 
